@@ -1,0 +1,7 @@
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\bin\RaspberryToDBService.dll.config
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\bin\RaspberryToDBService.dll
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\bin\RaspberryToDBService.pdb
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\obj\Debug\RaspberryToDBService.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\obj\Debug\RaspberryToDBService.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\obj\Debug\RaspberryToDBService.dll
+C:\Users\Andreas\Desktop\Eksamensprojekt 3sem\RaspberryToDBService\RaspberryToDBService\obj\Debug\RaspberryToDBService.pdb
