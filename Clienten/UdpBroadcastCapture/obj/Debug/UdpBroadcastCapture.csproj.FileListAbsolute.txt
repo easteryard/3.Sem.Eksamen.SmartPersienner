@@ -1,0 +1,12 @@
+C:\Users\jdw\Desktop\Raspberry Pi\UdpBroadcastReceiver-master\UdpBroadcastCapture\bin\Debug\UdpBroadcastCapture.exe.config
+C:\Users\jdw\Desktop\Raspberry Pi\UdpBroadcastReceiver-master\UdpBroadcastCapture\bin\Debug\UdpBroadcastCapture.exe
+C:\Users\jdw\Desktop\Raspberry Pi\UdpBroadcastReceiver-master\UdpBroadcastCapture\bin\Debug\UdpBroadcastCapture.pdb
+C:\Users\jdw\Desktop\Raspberry Pi\UdpBroadcastReceiver-master\UdpBroadcastCapture\obj\Debug\UdpBroadcastCapture.csprojResolveAssemblyReference.cache
+C:\Users\jdw\Desktop\Raspberry Pi\UdpBroadcastReceiver-master\UdpBroadcastCapture\obj\Debug\UdpBroadcastCapture.exe
+C:\Users\jdw\Desktop\Raspberry Pi\UdpBroadcastReceiver-master\UdpBroadcastCapture\obj\Debug\UdpBroadcastCapture.pdb
+C:\Users\jdw\Desktop\Raspberry Pi\Clienten\UdpBroadcastCapture\bin\Debug\UdpBroadcastCapture.exe.config
+C:\Users\jdw\Desktop\Raspberry Pi\Clienten\UdpBroadcastCapture\obj\Debug\UdpBroadcastCapture.exe
+C:\Users\jdw\Desktop\Raspberry Pi\Clienten\UdpBroadcastCapture\obj\Debug\UdpBroadcastCapture.pdb
+C:\Users\jdw\Desktop\Raspberry Pi\Clienten\UdpBroadcastCapture\bin\Debug\UdpBroadcastCapture.exe
+C:\Users\jdw\Desktop\Raspberry Pi\Clienten\UdpBroadcastCapture\bin\Debug\UdpBroadcastCapture.pdb
+C:\Users\jdw\Desktop\Raspberry Pi\Clienten\UdpBroadcastCapture\obj\Debug\UdpBroadcastCapture.csprojResolveAssemblyReference.cache
