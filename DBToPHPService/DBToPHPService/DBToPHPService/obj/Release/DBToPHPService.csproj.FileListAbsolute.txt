@@ -1,0 +1,6 @@
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\bin\DBToPHPService.dll.config
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\bin\DBToPHPService.dll
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\bin\DBToPHPService.pdb
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\obj\Release\DBToPHPService.csprojResolveAssemblyReference.cache
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\obj\Release\DBToPHPService.dll
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\obj\Release\DBToPHPService.pdb

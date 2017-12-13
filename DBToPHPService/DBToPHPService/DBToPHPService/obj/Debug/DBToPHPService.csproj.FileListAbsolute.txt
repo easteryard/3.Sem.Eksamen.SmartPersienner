@@ -1,0 +1,12 @@
+C:\Users\krabb_000\Desktop\SmartPersienner\DBToPHPService\DBToPHPService\bin\DBToPHPService.dll.config
+C:\Users\krabb_000\Desktop\SmartPersienner\DBToPHPService\DBToPHPService\bin\DBToPHPService.dll
+C:\Users\krabb_000\Desktop\SmartPersienner\DBToPHPService\DBToPHPService\bin\DBToPHPService.pdb
+C:\Users\krabb_000\Desktop\SmartPersienner\DBToPHPService\DBToPHPService\obj\Debug\DBToPHPService.csproj.CoreCompileInputs.cache
+C:\Users\krabb_000\Desktop\SmartPersienner\DBToPHPService\DBToPHPService\obj\Debug\DBToPHPService.dll
+C:\Users\krabb_000\Desktop\SmartPersienner\DBToPHPService\DBToPHPService\obj\Debug\DBToPHPService.pdb
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\bin\DBToPHPService.dll.config
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\bin\DBToPHPService.dll
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\bin\DBToPHPService.pdb
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\obj\Debug\DBToPHPService.dll
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\obj\Debug\DBToPHPService.pdb
+C:\Projects\C#\School projects\Eksamensprojekt\3. Semester\DBToPHPService\DBToPHPService\DBToPHPService\obj\Debug\DBToPHPService.csprojResolveAssemblyReference.cache
